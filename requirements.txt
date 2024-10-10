@@ -1,0 +1,8 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+speechrecognition==3.8.1
+pydub==0.25.1  # For handling audio (optional if you're using ffmpeg for audio extraction)
+ffmpeg-python==0.2.0  # Optional, if you want to use Python for handling ffmpeg
+reportlab==4.2.5
+python-multipart==0.0.5  # To handle file uploads
+aiofiles==23.1.0  # Required for handling asynchronous file operations in FastAPI
