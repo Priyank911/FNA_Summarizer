@@ -6,3 +6,4 @@ ffmpeg-python==0.2.0  # Optional, if you want to use Python for handling ffmpeg
 reportlab==4.2.5
 python-multipart==0.0.5  # To handle file uploads
 aiofiles==23.1.0  # Required for handling asynchronous file operations in FastAPI
+mangum==0.10.0  # Required for deploying FastAPI on AWS Lambda
