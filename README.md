@@ -85,5 +85,3 @@ Licensed under **MIT License**.
 **🔗 Stay Connected:** [GitHub Repository](https://github.com/Priyank911/FNA_Summarizer)  
 
 💡 *"Turning long news into short, factual insights!"* 🚀  
-
-This README is **structured, professional, and clear** while maintaining a **tech-focused** tone. Let me know if you need any modifications! 🚀
